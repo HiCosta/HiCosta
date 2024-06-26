@@ -46,8 +46,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/HiCosta/HiCosta/output/snake.svg" alt="Snake animation" />
-
-###
